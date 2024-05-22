@@ -3,6 +3,11 @@
 
 使用方法：  
 - 安装Python。
+- 快捷键`Win`+`R`并输入`cmd`打开控制台，利用`pip`安装`pyclipboard`和`keyboard`库：
+````
+pip install pyclipboard
+pip install keyboard
+````
 - 将脚本放置在合适的路径。  
 - 创建文本文档(后缀名`.txt`)，输入以下批处理命令（**注意修改盘符、路径并删除注释**）：  
 ````
